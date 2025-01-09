@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @StoyanCodes8
 - 👀 I’m interested in C#
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on any C# related topic
+- 💞️ I’m looking to collaborate on any C# related project
 - 📫 How to reach me C#ismylove@c#mail.com
 - 😄 Pronouns: C/#/C#
 - ⚡ Fun fact: I like coding on C#
